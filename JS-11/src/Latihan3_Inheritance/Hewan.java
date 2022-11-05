@@ -1,0 +1,14 @@
+/*
+ * Crated by 21343009_Mukhtarijal
+ */
+package Latihan3_Inheritance;
+
+public class Hewan {
+    public static void testClassMethod(){
+        System.out.println("The Class Method in Hewan");
+    }
+
+    public void testIntanceMethode(){
+        System.out.println("The Intance Methode in Hewan");
+    }
+}
